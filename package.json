@@ -1,0 +1,29 @@
+{
+  "name": "tna6_cli_number_guessing_game",
+  "version": "2.0.3",
+  "description": "A CLI BASED NUMBER GUESSING GAME.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tayyaba-naseerahmed/tna6_cli_number_guessing_game.git"
+  },
+  "author": "Tayyaba",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tayyaba-naseerahmed/tna6_cli_number_guessing_game/issues"
+  },
+  "homepage": "https://github.com/tayyaba-naseerahmed/tna6_cli_number_guessing_game#readme",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.11.30"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.16",
+    "tna6_cli_number_guessing_game": "^2.0.3"
+  }
+}

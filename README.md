@@ -1,1 +1,1 @@
-"# tna6-cli-number-guessing-game" 
+# this is a simple number guessing game
